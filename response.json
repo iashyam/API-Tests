@@ -1,0 +1,21 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "_BqQMAcZDKKK74xdU7uFHwHAOu8",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "OAhsgiCmbcAbaMOy9V1IJ5QZQ7E",
+            "id": "UCIxZHDq5tql4ejYtqYLTtxQ",
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "LL",
+                    "uploads": "UUIxZHDq5tql4ejYtqYLTtxQ"
+                }
+            }
+        }
+    ]
+}
